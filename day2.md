@@ -1,3 +1,13 @@
+#### 버전 로그 보여줌(커밋 로그 보여줌)
+
+```
+git log
+git log -p
+git log --oneline
+```
+
+
+
 #### 원격 저장소 연결
 
 ```bash
